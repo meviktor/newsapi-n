@@ -1,0 +1,31 @@
+{
+  "name": "newsapi-n",
+  "version": "1.0.0",
+  "description": "News API Client - https://newsapi.org/",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meviktor/newsapi-n.git"
+  },
+  "author": "meviktor",
+  "license": "MIT",
+  "homepage": "https://github.com/meviktor/newsapi-n#readme",
+  "keywords": [
+    "news",
+    "newsapi",
+    "client"
+  ],
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.4"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.0.4"
+  }
+}
