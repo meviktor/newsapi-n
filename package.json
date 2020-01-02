@@ -1,5 +1,5 @@
 {
-  "name": "newsapi-n",
+  "name": "newsapi-node",
   "version": "1.0.0",
   "description": "News API Client - https://newsapi.org/",
   "main": "dist/index.js",
