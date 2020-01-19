@@ -1,6 +1,6 @@
 {
   "name": "newsapi-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "News API Client - https://newsapi.org/",
   "main": "dist/index.js",
   "scripts": {
